@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: int_team_rest
+    description: >
+      Days of rest before each team game, computed with lag() over each team's
+      season. Null for season openers.
+    columns:
+      - name: game_id
+        tests:
+          - not_null
+      - name: days_rest
+        description: Full days off since the team's previous game (0 = back-to-back).

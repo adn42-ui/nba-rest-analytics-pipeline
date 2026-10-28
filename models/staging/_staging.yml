@@ -1,0 +1,28 @@
+version: 2
+
+# Tests run with `dbt build`. Each one is a SQL query that must return 0 rows.
+models:
+  - name: stg_team_games
+    description: One row per team per game, cleaned.
+    columns:
+      - name: game_id
+        tests:
+          - not_null
+      - name: team_id
+        tests:
+          - not_null
+      - name: is_win
+        tests:
+          - not_null
+  - name: stg_player_games
+    description: One row per player per game, cleaned.
+    columns:
+      - name: game_id
+        tests:
+          - not_null
+      - name: team_id
+        tests:
+          - not_null
+      - name: player_id
+        tests:
+          - not_null

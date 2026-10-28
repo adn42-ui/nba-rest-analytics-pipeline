@@ -1,0 +1,8 @@
+# Where dbt connects. To move to Snowflake later, add a Snowflake target here;
+# the models don't change.
+nba_rest:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: nba.duckdb

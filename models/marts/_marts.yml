@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: fct_team_games
+    description: >
+      One row per team per game, with the team's and the opponent's rest.
+      The main table for the Tableau dashboard.
+    columns:
+      - name: game_id
+        tests:
+          - not_null
+      - name: opponent
+        tests:
+          - not_null
+      - name: rest_bucket
+        tests:
+          - accepted_values:
+              values: ['Season opener', '0 (back-to-back)', '1 day', '2 days', '3+ days']
+      - name: rest_advantage_bucket
+        tests:
+          - accepted_values:
+              values: ['Season opener', 'Opponent +2 or more', 'Opponent +1', 'Even rest',
+                       'Team +1', 'Team +2 or more']
+
+  - name: agg_win_rate_by_rest
+    description: Games, wins, win % and average margin by season, venue and rest situation.
+    columns:
+      - name: win_pct
+        tests:
+          - not_null

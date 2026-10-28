@@ -1,0 +1,11 @@
+version: 2
+
+# Tables load_raw.py created. In models, refer to them as {{ source('raw', 'team_logs') }}.
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: team_logs
+        description: One row per team per regular-season game, from stats.nba.com.
+      - name: player_logs
+        description: One row per player per regular-season game, from stats.nba.com.

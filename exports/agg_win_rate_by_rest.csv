@@ -1,0 +1,231 @@
+season,venue,rest_advantage_bucket,back_to_back_matchup,games,wins,win_pct,avg_point_diff
+2023,Home,Opponent +2 or more,Only team on back-to-back,38,17.0,0.4474,-2.45
+2023,Away,Even rest,Neither on back-to-back,615,280.0,0.4553,-2.31
+2023,Away,Team +2 or more,Only opponent on back-to-back,38,21.0,0.5526,2.45
+2023,Home,Team +1,Neither on back-to-back,104,58.0,0.5577,2.82
+2023,Home,Team +2 or more,Only opponent on back-to-back,44,26.0,0.5909,5.07
+2025,Home,Opponent +1,Only team on back-to-back,116,58.0,0.5,-0.95
+2025,Away,Opponent +1,Only team on back-to-back,120,59.0,0.4917,-1.95
+2025,Away,Team +1,Only opponent on back-to-back,116,58.0,0.5,0.95
+2025,Away,Team +2 or more,Only opponent on back-to-back,29,16.0,0.5517,1.17
+2025,Home,Opponent +2 or more,Neither on back-to-back,12,6.0,0.5,0.5
+2024,Away,Even rest,Neither on back-to-back,609,276.0,0.4532,-1.89
+2024,Home,Team +1,Neither on back-to-back,104,58.0,0.5577,0.91
+2019,Home,Team +2 or more,Only opponent on back-to-back,42,23.0,0.5476,3.4
+2020,Away,Even rest,Both on back-to-back,67,24.0,0.3582,-1.81
+2018,Away,Opponent +1,Only team on back-to-back,132,44.0,0.3333,-5.22
+2019,Home,Opponent +1,Neither on back-to-back,81,47.0,0.5802,3.35
+2017,Home,Team +1,Neither on back-to-back,122,65.0,0.5328,0.75
+2017,Away,Even rest,Neither on back-to-back,515,236.0,0.4583,-1.18
+2022,Away,Even rest,Neither on back-to-back,596,261.0,0.4379,-2.07
+2021,Home,Opponent +1,Neither on back-to-back,109,61.0,0.5596,1.84
+2021,Home,Team +2 or more,Only opponent on back-to-back,51,33.0,0.6471,5.14
+2021,Away,Opponent +1,Neither on back-to-back,119,54.0,0.4538,-0.54
+2021,Away,Team +2 or more,Only opponent on back-to-back,40,27.0,0.675,5.7
+2021,Home,Team +1,Neither on back-to-back,119,65.0,0.5462,0.54
+2024,Away,Team +2 or more,Neither on back-to-back,13,4.0,0.3077,-3.92
+2016,Home,Team +2 or more,Only opponent on back-to-back,59,38.0,0.6441,4.69
+2017,Away,Opponent +2 or more,Neither on back-to-back,27,11.0,0.4074,-2.96
+2022,Away,Opponent +2 or more,Neither on back-to-back,36,12.0,0.3333,-3.44
+2016,Away,Opponent +2 or more,Only team on back-to-back,59,21.0,0.3559,-4.69
+2020,Away,Opponent +2 or more,Only team on back-to-back,30,13.0,0.4333,-2.2
+2021,Away,Opponent +2 or more,Only team on back-to-back,51,18.0,0.3529,-5.14
+2018,Away,Team +2 or more,Neither on back-to-back,12,6.0,0.5,0.67
+2020,Away,Team +2 or more,Neither on back-to-back,14,3.0,0.2143,-3.71
+2025,Home,Opponent +1,Neither on back-to-back,106,61.0,0.5755,2.78
+2025,Away,Opponent +1,Neither on back-to-back,124,52.0,0.4194,-3.32
+2023,Home,Season opener,Neither on back-to-back,15,8.0,0.5333,1.93
+2025,Home,Opponent +2 or more,Only team on back-to-back,29,13.0,0.4483,-1.17
+2024,Home,Even rest,Neither on back-to-back,605,331.0,0.5471,1.9
+2024,Away,Team +1,Only opponent on back-to-back,114,62.0,0.5439,2.33
+2019,Home,Opponent +1,Only team on back-to-back,76,38.0,0.5,0.34
+2020,Home,Team +2 or more,Neither on back-to-back,14,6.0,0.4286,-5.29
+2020,Home,Even rest,Both on back-to-back,67,43.0,0.6418,1.81
+2018,Home,Even rest,Both on back-to-back,50,34.0,0.68,4.04
+2018,Away,Opponent +1,Neither on back-to-back,129,48.0,0.3721,-3.08
+2017,Away,Opponent +2 or more,Only team on back-to-back,62,21.0,0.3387,-5.4
+2022,Away,Opponent +2 or more,Only team on back-to-back,57,18.0,0.3158,-7.02
+2022,Away,Team +1,Neither on back-to-back,90,33.0,0.3667,-3.3
+2021,Home,Opponent +1,Only team on back-to-back,90,37.0,0.4111,-0.93
+2021,Away,Opponent +1,Only team on back-to-back,150,67.0,0.4467,-2.79
+2021,Away,Team +1,Only opponent on back-to-back,90,53.0,0.5889,0.93
+2024,Home,Season opener,Neither on back-to-back,16,5.0,0.3125,-6.0
+2016,Home,Team +1,Neither on back-to-back,104,62.0,0.5962,4.01
+2016,Away,Even rest,Neither on back-to-back,551,231.0,0.4192,-2.83
+2016,Away,Team +1,Neither on back-to-back,103,41.0,0.3981,-3.66
+2022,Home,Team +2 or more,Only opponent on back-to-back,57,39.0,0.6842,7.02
+2016,Away,Opponent +2 or more,Neither on back-to-back,21,12.0,0.5714,-0.81
+2022,Away,Team +2 or more,Only opponent on back-to-back,30,14.0,0.4667,-3.23
+2022,Home,Team +1,Only opponent on back-to-back,126,81.0,0.6429,5.13
+2021,Away,Opponent +2 or more,Neither on back-to-back,28,10.0,0.3571,-3.75
+2019,Away,Team +2 or more,Neither on back-to-back,16,5.0,0.3125,-5.31
+2023,Home,Opponent +2 or more,Neither on back-to-back,14,10.0,0.7143,5.21
+2020,Away,Opponent +2 or more,Neither on back-to-back,14,8.0,0.5714,5.29
+2023,Away,Opponent +1,Neither on back-to-back,104,46.0,0.4423,-2.82
+2023,Away,Team +1,Only opponent on back-to-back,108,59.0,0.5463,1.0
+2025,Away,Even rest,Both on back-to-back,70,33.0,0.4714,-0.64
+2025,Home,Team +1,Neither on back-to-back,124,72.0,0.5806,3.32
+2025,Home,Team +2 or more,Neither on back-to-back,17,9.0,0.5294,1.59
+2025,Away,Opponent +2 or more,Only team on back-to-back,36,13.0,0.3611,-3.86
+2024,Home,Opponent +1,Only team on back-to-back,114,52.0,0.4561,-2.33
+2019,Home,Even rest,Both on back-to-back,32,21.0,0.6563,3.53
+2019,Home,Team +1,Only opponent on back-to-back,115,65.0,0.5652,5.01
+2020,Home,Opponent +1,Only team on back-to-back,132,73.0,0.553,1.73
+2020,Home,Team +1,Only opponent on back-to-back,141,86.0,0.6099,2.8
+2020,Home,Opponent +2 or more,Only team on back-to-back,20,8.0,0.4,-6.25
+2018,Away,Season opener,Neither on back-to-back,15,4.0,0.2667,-7.27
+2018,Home,Team +1,Only opponent on back-to-back,132,88.0,0.6667,5.22
+2018,Home,Opponent +1,Only team on back-to-back,80,47.0,0.5875,1.06
+2018,Home,Team +2 or more,Only opponent on back-to-back,63,45.0,0.7143,4.56
+2019,Away,Team +1,Only opponent on back-to-back,76,38.0,0.5,-0.34
+2017,Home,Opponent +1,Neither on back-to-back,136,79.0,0.5809,2.3
+2017,Home,Team +2 or more,Neither on back-to-back,27,16.0,0.5926,2.96
+2017,Home,Even rest,Both on back-to-back,52,33.0,0.6346,3.33
+2022,Home,Even rest,Both on back-to-back,55,35.0,0.6364,3.13
+2022,Away,Opponent +1,Neither on back-to-back,137,62.0,0.4526,-1.2
+2021,Away,Even rest,Neither on back-to-back,562,252.0,0.4484,-1.84
+2021,Home,Even rest,Both on back-to-back,46,27.0,0.587,1.7
+2024,Home,Opponent +2 or more,Only team on back-to-back,36,17.0,0.4722,0.44
+2016,Home,Opponent +2 or more,Neither on back-to-back,16,8.0,0.5,3.38
+2016,Away,Team +2 or more,Only opponent on back-to-back,26,14.0,0.5385,1.08
+2018,Away,Opponent +2 or more,Neither on back-to-back,32,12.0,0.375,-4.47
+2025,Home,Season opener,Neither on back-to-back,16,10.0,0.625,0.75
+2017,Away,Season opener,Only team on back-to-back,1,1.0,1.0,5.0
+2025,Away,Even rest,Neither on back-to-back,589,255.0,0.4329,-1.85
+2025,Away,Season opener,Neither on back-to-back,16,6.0,0.375,-0.75
+2024,Away,Opponent +1,Only team on back-to-back,127,50.0,0.3937,-4.02
+2024,Away,Team +1,Neither on back-to-back,90,45.0,0.5,-0.57
+2019,Home,Even rest,Neither on back-to-back,524,283.0,0.5401,1.55
+2019,Away,Opponent +2 or more,Only team on back-to-back,42,19.0,0.4524,-3.4
+2019,Home,Season opener,Neither on back-to-back,15,10.0,0.6667,4.6
+2019,Away,Team +2 or more,Only opponent on back-to-back,17,10.0,0.5882,3.24
+2017,Home,Even rest,Neither on back-to-back,515,279.0,0.5417,1.18
+2022,Home,Team +1,Neither on back-to-back,137,75.0,0.5474,1.2
+2022,Home,Opponent +1,Neither on back-to-back,90,57.0,0.6333,3.3
+2022,Home,Even rest,Neither on back-to-back,596,335.0,0.5621,2.07
+2022,Home,Team +2 or more,Neither on back-to-back,36,24.0,0.6667,3.44
+2022,Away,Team +1,Only opponent on back-to-back,78,38.0,0.4872,0.14
+2021,Home,Even rest,Neither on back-to-back,562,310.0,0.5516,1.84
+2021,Away,Even rest,Both on back-to-back,46,19.0,0.413,-1.7
+2021,Away,Team +1,Neither on back-to-back,109,48.0,0.4404,-1.84
+2021,Home,Opponent +2 or more,Only team on back-to-back,40,13.0,0.325,-5.7
+2016,Home,Team +1,Only opponent on back-to-back,197,126.0,0.6396,5.17
+2016,Away,Team +1,Only opponent on back-to-back,66,35.0,0.5303,0.24
+2022,Away,Team +2 or more,Neither on back-to-back,9,6.0,0.6667,4.44
+2018,Home,Opponent +2 or more,Only team on back-to-back,22,11.0,0.5,-0.91
+2017,Home,Opponent +2 or more,Only team on back-to-back,31,19.0,0.6129,1.19
+2020,Home,Team +2 or more,Only opponent on back-to-back,30,17.0,0.5667,2.2
+2016,Away,Season opener,Only team on back-to-back,1,0.0,0.0,-6.0
+2023,Home,Opponent +1,Neither on back-to-back,100,51.0,0.51,1.2
+2023,Away,Opponent +2 or more,Only team on back-to-back,44,18.0,0.4091,-5.07
+2023,Away,Even rest,Both on back-to-back,57,27.0,0.4737,-3.04
+2024,Away,Opponent +2 or more,Only team on back-to-back,31,11.0,0.3548,-5.42
+2024,Away,Even rest,Both on back-to-back,71,34.0,0.4789,-3.62
+2019,Away,Opponent +1,Only team on back-to-back,115,50.0,0.4348,-5.01
+2019,Home,Opponent +2 or more,Neither on back-to-back,16,11.0,0.6875,5.31
+2020,Away,Even rest,Neither on back-to-back,494,240.0,0.4858,-0.58
+2018,Away,Team +1,Only opponent on back-to-back,80,33.0,0.4125,-1.06
+2017,Away,Opponent +1,Only team on back-to-back,172,63.0,0.3663,-3.64
+2017,Away,Team +1,Neither on back-to-back,136,57.0,0.4191,-2.3
+2017,Away,Team +2 or more,Neither on back-to-back,35,10.0,0.2857,-5.37
+2024,Home,Team +2 or more,Neither on back-to-back,21,17.0,0.8095,6.81
+2016,Away,Opponent +1,Neither on back-to-back,104,42.0,0.4038,-4.01
+2016,Home,Opponent +1,Neither on back-to-back,103,62.0,0.6019,3.66
+2017,Home,Season opener,Neither on back-to-back,14,10.0,0.7143,2.36
+2022,Away,Even rest,Both on back-to-back,55,20.0,0.3636,-3.13
+2016,Home,Season opener,Neither on back-to-back,15,8.0,0.5333,0.33
+2017,Away,Even rest,Both on back-to-back,52,19.0,0.3654,-3.33
+2022,Home,Season opener,Neither on back-to-back,16,9.0,0.5625,-0.38
+2020,Away,Team +1,Neither on back-to-back,72,38.0,0.5278,0.43
+2018,Home,Season opener,Neither on back-to-back,15,11.0,0.7333,7.27
+2022,Home,Opponent +2 or more,Neither on back-to-back,9,3.0,0.3333,-4.44
+2020,Away,Opponent +1,Neither on back-to-back,80,34.0,0.425,-1.27
+2019,Away,Season opener,Only opponent on back-to-back,1,1.0,1.0,17.0
+2017,Away,Season opener,Only opponent on back-to-back,1,1.0,1.0,8.0
+2023,Away,Season opener,Neither on back-to-back,15,7.0,0.4667,-1.93
+2023,Home,Team +1,Only opponent on back-to-back,118,73.0,0.6186,3.64
+2023,Away,Team +2 or more,Neither on back-to-back,14,4.0,0.2857,-5.21
+2023,Home,Team +2 or more,Neither on back-to-back,17,11.0,0.6471,4.76
+2025,Home,Even rest,Neither on back-to-back,579,329.0,0.5682,1.88
+2025,Away,Team +1,Neither on back-to-back,106,45.0,0.4245,-2.78
+2023,Home,Even rest,Both on back-to-back,57,30.0,0.5263,3.04
+2024,Away,Opponent +1,Neither on back-to-back,107,47.0,0.4393,-0.82
+2024,Home,Team +1,Only opponent on back-to-back,127,77.0,0.6063,4.02
+2024,Away,Team +2 or more,Only opponent on back-to-back,36,19.0,0.5278,-0.44
+2019,Home,Team +2 or more,Neither on back-to-back,29,17.0,0.5862,0.59
+2019,Away,Opponent +2 or more,Neither on back-to-back,29,12.0,0.4138,-0.59
+2020,Away,Team +2 or more,Only opponent on back-to-back,20,12.0,0.6,6.25
+2018,Away,Team +2 or more,Only opponent on back-to-back,22,11.0,0.5,0.91
+2019,Away,Even rest,Both on back-to-back,32,11.0,0.3438,-3.53
+2017,Home,Team +1,Only opponent on back-to-back,172,109.0,0.6337,3.64
+2017,Home,Opponent +2 or more,Neither on back-to-back,35,25.0,0.7143,5.37
+2022,Home,Opponent +1,Only team on back-to-back,78,40.0,0.5128,-0.14
+2021,Home,Team +1,Only opponent on back-to-back,150,83.0,0.5533,2.79
+2021,Away,Team +2 or more,Neither on back-to-back,19,7.0,0.3684,-8.37
+2021,Home,Team +2 or more,Neither on back-to-back,28,18.0,0.6429,3.75
+2016,Away,Season opener,Neither on back-to-back,15,7.0,0.4667,-0.33
+2016,Home,Even rest,Both on back-to-back,71,41.0,0.5775,2.58
+2021,Home,Opponent +2 or more,Neither on back-to-back,19,12.0,0.6316,8.37
+2024,Away,Season opener,Neither on back-to-back,16,11.0,0.6875,6.0
+2018,Away,Even rest,Both on back-to-back,50,16.0,0.32,-4.04
+2016,Home,Team +2 or more,Neither on back-to-back,21,9.0,0.4286,0.81
+2018,Home,Opponent +2 or more,Neither on back-to-back,12,6.0,0.5,-0.67
+2025,Away,Team +2 or more,Neither on back-to-back,12,6.0,0.5,-0.5
+2019,Home,Season opener,Only team on back-to-back,1,0.0,0.0,-17.0
+2023,Home,Even rest,Neither on back-to-back,615,335.0,0.5447,2.31
+2023,Away,Opponent +1,Only team on back-to-back,118,45.0,0.3814,-3.64
+2025,Home,Even rest,Both on back-to-back,70,37.0,0.5286,0.64
+2024,Home,Opponent +1,Neither on back-to-back,87,44.0,0.5057,0.51
+2024,Home,Team +2 or more,Only opponent on back-to-back,31,20.0,0.6452,5.42
+2019,Away,Even rest,Neither on back-to-back,524,241.0,0.4599,-1.55
+2020,Away,Season opener,Neither on back-to-back,16,7.0,0.4375,0.06
+2020,Home,Opponent +1,Neither on back-to-back,72,34.0,0.4722,-0.43
+2020,Away,Team +1,Only opponent on back-to-back,132,59.0,0.447,-1.73
+2018,Away,Even rest,Neither on back-to-back,543,244.0,0.4494,-2.01
+2018,Away,Team +1,Neither on back-to-back,151,64.0,0.4238,-2.48
+2018,Home,Opponent +1,Neither on back-to-back,151,87.0,0.5762,2.48
+2018,Away,Opponent +2 or more,Only team on back-to-back,63,18.0,0.2857,-4.56
+2017,Away,Season opener,Neither on back-to-back,14,4.0,0.2857,-2.36
+2017,Away,Team +2 or more,Only opponent on back-to-back,31,12.0,0.3871,-1.19
+2017,Away,Team +1,Only opponent on back-to-back,62,26.0,0.4194,-1.87
+2017,Home,Opponent +1,Only team on back-to-back,62,36.0,0.5806,1.87
+2022,Away,Opponent +1,Only team on back-to-back,126,45.0,0.3571,-5.13
+2016,Home,Even rest,Neither on back-to-back,551,320.0,0.5808,2.83
+2016,Home,Opponent +2 or more,Only team on back-to-back,26,12.0,0.4615,-1.08
+2024,Home,Opponent +2 or more,Neither on back-to-back,13,9.0,0.6923,3.92
+2019,Away,Season opener,Neither on back-to-back,15,5.0,0.3333,-4.6
+2025,Away,Opponent +2 or more,Neither on back-to-back,17,8.0,0.4706,-1.59
+2020,Home,Opponent +2 or more,Neither on back-to-back,14,11.0,0.7857,3.71
+2018,Away,Season opener,Only team on back-to-back,1,1.0,1.0,1.0
+2017,Home,Season opener,Only opponent on back-to-back,1,0.0,0.0,-5.0
+2016,Home,Season opener,Only opponent on back-to-back,1,1.0,1.0,6.0
+2018,Home,Season opener,Only opponent on back-to-back,1,0.0,0.0,-1.0
+2023,Home,Opponent +1,Only team on back-to-back,108,49.0,0.4537,-1.0
+2023,Away,Team +1,Neither on back-to-back,100,49.0,0.49,-1.2
+2025,Home,Team +1,Only opponent on back-to-back,120,61.0,0.5083,1.95
+2025,Home,Team +2 or more,Only opponent on back-to-back,36,23.0,0.6389,3.86
+2024,Home,Even rest,Both on back-to-back,71,37.0,0.5211,3.62
+2019,Home,Team +1,Neither on back-to-back,111,62.0,0.5586,1.95
+2019,Away,Opponent +1,Neither on back-to-back,111,49.0,0.4414,-1.95
+2019,Away,Team +1,Neither on back-to-back,81,34.0,0.4198,-3.35
+2020,Home,Team +1,Neither on back-to-back,80,46.0,0.575,1.27
+2020,Home,Even rest,Neither on back-to-back,494,254.0,0.5142,0.58
+2020,Away,Opponent +1,Only team on back-to-back,141,55.0,0.3901,-2.8
+2018,Home,Team +1,Neither on back-to-back,129,81.0,0.6279,3.08
+2018,Home,Even rest,Neither on back-to-back,543,299.0,0.5506,2.01
+2018,Home,Team +2 or more,Neither on back-to-back,32,20.0,0.625,4.47
+2017,Away,Opponent +1,Neither on back-to-back,122,57.0,0.4672,-0.75
+2017,Home,Team +2 or more,Only opponent on back-to-back,62,41.0,0.6613,5.4
+2022,Away,Season opener,Neither on back-to-back,16,7.0,0.4375,0.38
+2022,Home,Opponent +2 or more,Only team on back-to-back,30,16.0,0.5333,3.23
+2021,Away,Season opener,Neither on back-to-back,16,6.0,0.375,-6.94
+2024,Away,Opponent +2 or more,Neither on back-to-back,21,4.0,0.1905,-6.81
+2016,Away,Opponent +1,Only team on back-to-back,197,71.0,0.3604,-5.17
+2016,Home,Opponent +1,Only team on back-to-back,66,31.0,0.4697,-0.24
+2016,Away,Team +2 or more,Neither on back-to-back,16,8.0,0.5,-3.38
+2016,Away,Even rest,Both on back-to-back,71,30.0,0.4225,-2.58
+2019,Home,Opponent +2 or more,Only team on back-to-back,17,7.0,0.4118,-3.24
+2021,Home,Season opener,Neither on back-to-back,16,10.0,0.625,6.94
+2023,Away,Opponent +2 or more,Neither on back-to-back,17,6.0,0.3529,-4.76
+2020,Home,Season opener,Neither on back-to-back,16,9.0,0.5625,-0.06
+2017,Home,Season opener,Only team on back-to-back,1,0.0,0.0,-8.0
