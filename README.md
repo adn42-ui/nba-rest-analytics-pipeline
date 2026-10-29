@@ -1,6 +1,8 @@
 # Does Rest Win NBA Games?
 
-**Finding:** Rest is worth real wins. Across 10 seasons (2016-17 to 2025-26, 24,000 team-games), a team with **2+ more days of rest than its opponent wins 57.2%** of the time, compared with **42.8%** when the opponent has the advantage. With home and away held constant, playing the second night of a back-to-back against a rested team costs **about 6 percentage points of win probability**, roughly **half the value of home court**.
+**Finding:** Rest is worth real wins. Across 10 seasons (2016-17 to 2025-26, 24,000 team-games), a team with **2+ more days of rest than its opponent wins 57.2%** of the time, compared with **42.8%** when the opponent has the advantage. With home and away held constant, playing the second night of a back-to-back against a rested team costs **about 6 percentage points (pp) of win probability**: 6.8 pp at home and 5.8 pp away. That's **about the same size as home-court advantage** (home teams win 56.2%, a 6.2 pp edge).
+
+**[Interactive Tableau dashboard](https://public.tableau.com/app/profile/akachidike.david.nweze/viz/Nbarestanalytics/RestDashboard)**: filter by season and team.
 
 This is the schedule-fatigue context behind the league's load management debate. It's also why teams have long rested stars on back-to-backs, which my [Player Participation Policy analysis](https://github.com/adn42-ui/nba-load-management-analysis) examines.
 
