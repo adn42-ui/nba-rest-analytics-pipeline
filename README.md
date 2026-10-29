@@ -44,7 +44,7 @@ Built-in `not_null` and `accepted_values` tests, plus custom SQL tests that chec
 - **DuckDB:** a local analytical database. It uses the same SQL as Snowflake, so moving to Snowflake only needs a new target in `profiles.yml`.
 - **dbt Core:** models, dependency graph, documentation and tests
 - **Python:** data loading, exports, charts
-- **Tableau Public:** interactive dashboard *(in progress)*
+- **Tableau Public:** [interactive dashboard](https://public.tableau.com/app/profile/akachidike.david.nweze/viz/Nbarestanalytics/RestDashboard)
 
 ## How to run
 
